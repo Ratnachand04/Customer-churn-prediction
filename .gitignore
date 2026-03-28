@@ -1,0 +1,18 @@
+# Environments
+.env
+.venv
+env/
+venv/
+ENV/
+
+# Python
+__pycache__/
+*.py[cod]
+
+# Data
+data/raw/*.csv
+data/interim/*
+data/processed/*
+
+# Jupyter Notebooks
+.ipynb_checkpoints/
