@@ -1,0 +1,18 @@
+Model,Category,Accuracy,Precision,Recall,F1 Score,ArtifactPath
+Gradient Boosting,Supervised,86.14,71.64,63.56,67.36,E:\NMIMS\SEM-VI\AAI\Predict Customer Churn _ project\artifacts\gradient_boosting.joblib
+LightGBM,Supervised,85.85,70.5,63.82,66.99,E:\NMIMS\SEM-VI\AAI\Predict Customer Churn _ project\artifacts\lightgbm.joblib
+XGBoost,Supervised,85.69,70.38,62.84,66.4,E:\NMIMS\SEM-VI\AAI\Predict Customer Churn _ project\artifacts\xgboost.joblib
+AdaBoost,Supervised,85.53,69.61,63.33,66.33,E:\NMIMS\SEM-VI\AAI\Predict Customer Churn _ project\artifacts\adaboost.joblib
+Self-Training,Semi-Supervised,85.07,67.43,65.07,66.23,E:\NMIMS\SEM-VI\AAI\Predict Customer Churn _ project\artifacts\self_training.joblib
+Logistic Regression,Supervised,85.2,68.16,64.22,66.13,E:\NMIMS\SEM-VI\AAI\Predict Customer Churn _ project\artifacts\logistic_regression.joblib
+SVM,Supervised,85.58,70.28,62.22,66.01,E:\NMIMS\SEM-VI\AAI\Predict Customer Churn _ project\artifacts\svm.joblib
+Naive Bayes,Supervised,80.81,54.94,81.82,65.74,E:\NMIMS\SEM-VI\AAI\Predict Customer Churn _ project\artifacts\naive_bayes.joblib
+Random Forest,Supervised,84.79,69.01,58.8,63.5,E:\NMIMS\SEM-VI\AAI\Predict Customer Churn _ project\artifacts\random_forest.joblib
+KNN,Supervised,83.47,64.68,58.44,61.41,E:\NMIMS\SEM-VI\AAI\Predict Customer Churn _ project\artifacts\knn.joblib
+Extra Trees,Supervised,83.66,65.83,56.93,61.06,E:\NMIMS\SEM-VI\AAI\Predict Customer Churn _ project\artifacts\extra_trees.joblib
+Decision Tree,Supervised,81.29,58.48,58.09,58.28,E:\NMIMS\SEM-VI\AAI\Predict Customer Churn _ project\artifacts\decision_tree.joblib
+Label Spreading,Semi-Supervised,81.13,58.29,56.71,57.49,E:\NMIMS\SEM-VI\AAI\Predict Customer Churn _ project\artifacts\label_spreading.joblib
+Label Propagation,Semi-Supervised,81.1,58.22,56.67,57.43,E:\NMIMS\SEM-VI\AAI\Predict Customer Churn _ project\artifacts\label_propagation.joblib
+DBSCAN,Unsupervised,58.92,15.08,17.82,16.33,E:\NMIMS\SEM-VI\AAI\Predict Customer Churn _ project\artifacts\dbscan.joblib
+Isolation Forest,Unsupervised,57.09,10.15,11.56,10.81,E:\NMIMS\SEM-VI\AAI\Predict Customer Churn _ project\artifacts\isolation_forest.joblib
+K-Means,Unsupervised,77.5,0.0,0.0,0.0,E:\NMIMS\SEM-VI\AAI\Predict Customer Churn _ project\artifacts\k_means.joblib

@@ -1,0 +1,155 @@
+[
+  {
+    "Model": "Gradient Boosting",
+    "Category": "Supervised",
+    "Accuracy": 86.14,
+    "Precision": 71.64,
+    "Recall": 63.56,
+    "F1 Score": 67.36,
+    "ArtifactPath": "E:\\NMIMS\\SEM-VI\\AAI\\Predict Customer Churn _ project\\artifacts\\gradient_boosting.joblib"
+  },
+  {
+    "Model": "LightGBM",
+    "Category": "Supervised",
+    "Accuracy": 85.85,
+    "Precision": 70.5,
+    "Recall": 63.82,
+    "F1 Score": 66.99,
+    "ArtifactPath": "E:\\NMIMS\\SEM-VI\\AAI\\Predict Customer Churn _ project\\artifacts\\lightgbm.joblib"
+  },
+  {
+    "Model": "XGBoost",
+    "Category": "Supervised",
+    "Accuracy": 85.69,
+    "Precision": 70.38,
+    "Recall": 62.84,
+    "F1 Score": 66.4,
+    "ArtifactPath": "E:\\NMIMS\\SEM-VI\\AAI\\Predict Customer Churn _ project\\artifacts\\xgboost.joblib"
+  },
+  {
+    "Model": "AdaBoost",
+    "Category": "Supervised",
+    "Accuracy": 85.53,
+    "Precision": 69.61,
+    "Recall": 63.33,
+    "F1 Score": 66.33,
+    "ArtifactPath": "E:\\NMIMS\\SEM-VI\\AAI\\Predict Customer Churn _ project\\artifacts\\adaboost.joblib"
+  },
+  {
+    "Model": "Self-Training",
+    "Category": "Semi-Supervised",
+    "Accuracy": 85.07,
+    "Precision": 67.43,
+    "Recall": 65.07,
+    "F1 Score": 66.23,
+    "ArtifactPath": "E:\\NMIMS\\SEM-VI\\AAI\\Predict Customer Churn _ project\\artifacts\\self_training.joblib"
+  },
+  {
+    "Model": "Logistic Regression",
+    "Category": "Supervised",
+    "Accuracy": 85.2,
+    "Precision": 68.16,
+    "Recall": 64.22,
+    "F1 Score": 66.13,
+    "ArtifactPath": "E:\\NMIMS\\SEM-VI\\AAI\\Predict Customer Churn _ project\\artifacts\\logistic_regression.joblib"
+  },
+  {
+    "Model": "SVM",
+    "Category": "Supervised",
+    "Accuracy": 85.58,
+    "Precision": 70.28,
+    "Recall": 62.22,
+    "F1 Score": 66.01,
+    "ArtifactPath": "E:\\NMIMS\\SEM-VI\\AAI\\Predict Customer Churn _ project\\artifacts\\svm.joblib"
+  },
+  {
+    "Model": "Naive Bayes",
+    "Category": "Supervised",
+    "Accuracy": 80.81,
+    "Precision": 54.94,
+    "Recall": 81.82,
+    "F1 Score": 65.74,
+    "ArtifactPath": "E:\\NMIMS\\SEM-VI\\AAI\\Predict Customer Churn _ project\\artifacts\\naive_bayes.joblib"
+  },
+  {
+    "Model": "Random Forest",
+    "Category": "Supervised",
+    "Accuracy": 84.79,
+    "Precision": 69.01,
+    "Recall": 58.8,
+    "F1 Score": 63.5,
+    "ArtifactPath": "E:\\NMIMS\\SEM-VI\\AAI\\Predict Customer Churn _ project\\artifacts\\random_forest.joblib"
+  },
+  {
+    "Model": "KNN",
+    "Category": "Supervised",
+    "Accuracy": 83.47,
+    "Precision": 64.68,
+    "Recall": 58.44,
+    "F1 Score": 61.41,
+    "ArtifactPath": "E:\\NMIMS\\SEM-VI\\AAI\\Predict Customer Churn _ project\\artifacts\\knn.joblib"
+  },
+  {
+    "Model": "Extra Trees",
+    "Category": "Supervised",
+    "Accuracy": 83.66,
+    "Precision": 65.83,
+    "Recall": 56.93,
+    "F1 Score": 61.06,
+    "ArtifactPath": "E:\\NMIMS\\SEM-VI\\AAI\\Predict Customer Churn _ project\\artifacts\\extra_trees.joblib"
+  },
+  {
+    "Model": "Decision Tree",
+    "Category": "Supervised",
+    "Accuracy": 81.29,
+    "Precision": 58.48,
+    "Recall": 58.09,
+    "F1 Score": 58.28,
+    "ArtifactPath": "E:\\NMIMS\\SEM-VI\\AAI\\Predict Customer Churn _ project\\artifacts\\decision_tree.joblib"
+  },
+  {
+    "Model": "Label Spreading",
+    "Category": "Semi-Supervised",
+    "Accuracy": 81.13,
+    "Precision": 58.29,
+    "Recall": 56.71,
+    "F1 Score": 57.49,
+    "ArtifactPath": "E:\\NMIMS\\SEM-VI\\AAI\\Predict Customer Churn _ project\\artifacts\\label_spreading.joblib"
+  },
+  {
+    "Model": "Label Propagation",
+    "Category": "Semi-Supervised",
+    "Accuracy": 81.1,
+    "Precision": 58.22,
+    "Recall": 56.67,
+    "F1 Score": 57.43,
+    "ArtifactPath": "E:\\NMIMS\\SEM-VI\\AAI\\Predict Customer Churn _ project\\artifacts\\label_propagation.joblib"
+  },
+  {
+    "Model": "DBSCAN",
+    "Category": "Unsupervised",
+    "Accuracy": 58.92,
+    "Precision": 15.08,
+    "Recall": 17.82,
+    "F1 Score": 16.33,
+    "ArtifactPath": "E:\\NMIMS\\SEM-VI\\AAI\\Predict Customer Churn _ project\\artifacts\\dbscan.joblib"
+  },
+  {
+    "Model": "Isolation Forest",
+    "Category": "Unsupervised",
+    "Accuracy": 57.09,
+    "Precision": 10.15,
+    "Recall": 11.56,
+    "F1 Score": 10.81,
+    "ArtifactPath": "E:\\NMIMS\\SEM-VI\\AAI\\Predict Customer Churn _ project\\artifacts\\isolation_forest.joblib"
+  },
+  {
+    "Model": "K-Means",
+    "Category": "Unsupervised",
+    "Accuracy": 77.5,
+    "Precision": 0.0,
+    "Recall": 0.0,
+    "F1 Score": 0.0,
+    "ArtifactPath": "E:\\NMIMS\\SEM-VI\\AAI\\Predict Customer Churn _ project\\artifacts\\k_means.joblib"
+  }
+]

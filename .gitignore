@@ -13,6 +13,11 @@ __pycache__/
 data/raw/*.csv
 data/interim/*
 data/processed/*
+data/db/*.db
+
+# Trained artifacts (large binaries)
+artifacts/*.joblib
+artifacts/*.keras
 
 # Jupyter Notebooks
 .ipynb_checkpoints/
